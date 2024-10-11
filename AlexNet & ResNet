@@ -50,6 +50,8 @@ model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics=['accura
 # Model summary
 model.summary()
 
+    
+
 """2.ResNet.py"""
 
 import torch
